@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "run:android": "react-native run-android",
     "run:ios": "react-native run-ios",
